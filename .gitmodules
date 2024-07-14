@@ -1,0 +1,3 @@
+[submodule "run-go-lsp"]
+	path = run-go-lsp
+	url = https://github.com/Ryntak94/run-go-lsp.git
